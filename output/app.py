@@ -1,0 +1,2 @@
+# Sample app
+print("Hello")
